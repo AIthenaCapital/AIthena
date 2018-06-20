@@ -1,2 +1,2 @@
 # AIthena
-Cryptocurrency
+Cryptocurrency autobot
